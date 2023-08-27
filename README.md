@@ -198,5 +198,5 @@
 2. Liz Rice Container Security: Fundamental Technology Concepts that Protect Containerized Applications. O'Reilly Media, 2020, 175 с.[скачать](https://disk.yandex.ru/d/mrcntkbTLAfHPQ)
    
 3. Jordan Lioy Software Containers: The Complete Guide to Virtualization Technology. Create, Use and Deploy Scalable Software with Docker and Kubernetes. 2023, 673с.[скачать](https://disk.yandex.ru/d/mrcntkbTLAfHPQ)
-   
-4.	Клеппман М.Высоконагруженные приложения. Программирование, масштабирование, поддержка. — СПб.: Питер, 2018 — 640 с.
+  
+4. Play with Docker Classroom [link](https://training.play-with-docker.com/)
