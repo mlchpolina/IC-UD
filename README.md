@@ -1,4 +1,5 @@
 # Integrating-and-Deploying-Software-with-Containers
+# Using Containers for Working with Data
 38.03.05_Бизнес-информатика_Аналитика данных и эффективное управление(Семестр: 8)
 
 Практика и домашние задания находятся в соответсвующих директориях.
