@@ -165,11 +165,11 @@
 
 ## self-study
 
-- `Семинар 1`. []()
+- `Семинар 1`. [First Alpine Linux Containers](https://training.play-with-docker.com/ops-s1-hello/)
  
-- `Семинар 2`. []()
+- `Семинар 2`. [Docker for Beginners - Linux](https://training.play-with-docker.com/beginner-linux/)
 
-- `Семинар 3`. []().
+- `Семинар 3`. [Node.js with SQL Server on Docker](https://training.play-with-docker.com/node-sql-server-docker/).
 
 - `Семинар 4`. []()  
 
