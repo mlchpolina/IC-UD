@@ -171,13 +171,11 @@
 
 - `Семинар 3`. [Node.js with SQL Server on Docker](https://training.play-with-docker.com/node-sql-server-docker/).
 
-- `Семинар 4`. []()  
+- `Семинар 4`. [Swarm Mode Introduction for IT Pros](https://training.play-with-docker.com/ops-s1-swarm-intro/)  [Swarm mode introduction](https://training.play-with-docker.com/swarm-mode-intro/)
 
-- `Семинар 5`. 
-   
-   - []()
+- `Семинар 5`. [Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/)
 
-- `Семинар 7`. []()
+- `Семинар 6`. [Docker images deeper dive](https://training.play-with-docker.com/docker-images/)
     
 
 ## ТЕСТ 1.   
