@@ -163,7 +163,7 @@
 
 🔹 [ПРОЕКТ «ФЕНИКС». КАК DEVOPS УСТРАНЯЕТ ХАОС И УСКОРЯЕТ РАЗВИТИЕ КОМПАНИИ](https://bombora.ru/book/64983/#.)
 
-## self-study
+## Практические работы
 
 - `Семинар 1`. [First Alpine Linux Containers](https://training.play-with-docker.com/ops-s1-hello/)
  
