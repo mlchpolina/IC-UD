@@ -168,24 +168,24 @@
 
 ## Практические работы
 
-- `Семинар 1`. [First Alpine Linux Containers](https://training.play-with-docker.com/ops-s1-hello/)
+- `ПР 1`. [First Alpine Linux Containers](https://training.play-with-docker.com/ops-s1-hello/)
  
-- `Семинар 2`. [Docker for Beginners - Linux](https://training.play-with-docker.com/beginner-linux/)
+- `ПР 2`. [Docker for Beginners - Linux](https://training.play-with-docker.com/beginner-linux/)
 
-- `Семинар 3`. [Node.js with SQL Server on Docker](https://training.play-with-docker.com/node-sql-server-docker/).
+- `ПР 3`. [Node.js with SQL Server on Docker](https://training.play-with-docker.com/node-sql-server-docker/).
 
-- `Семинар 4`.
+- `ПР 4`.
    - [Swarm Mode Introduction for IT Pros](https://training.play-with-docker.com/ops-s1-swarm-intro/)
 
    - [Swarm mode introduction](https://training.play-with-docker.com/swarm-mode-intro/)
 
-- `Семинар 5`. [Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/)
+- `ПР 5`. [Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/)
 
-- `Семинар 6`. [Docker images deeper dive](https://training.play-with-docker.com/docker-images/)
+- `ПР 6`. [Docker images deeper dive](https://training.play-with-docker.com/docker-images/)
 
-- `Семинар 7`. [Docker Orchestration Hands-on Lab](https://training.play-with-docker.com/orchestration-hol/)
+- `ПР 7`. [Docker Orchestration Hands-on Lab](https://training.play-with-docker.com/orchestration-hol/)
 
-- `Семинар 8`. [Docker images deeper dive](https://training.play-with-docker.com/docker-images/)
+- `ПР 8`. [Docker images deeper dive](https://training.play-with-docker.com/docker-images/)
     
 
 ## ТЕСТ 1.   
