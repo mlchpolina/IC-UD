@@ -210,6 +210,9 @@
 
 Официальный контейнер [Ubuntu 14](https://github.com/dockerfile/ubuntu).
  - скачать репо `https://github.com/dockerfile/ubuntu.git`;
+```
+ git clone https://github.com/dockerfile/ubuntu.git
+``` 
  - зайти в корневой каталог Ubuntu;
  - выполнить команду:
 
