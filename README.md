@@ -239,6 +239,22 @@
 
 Семинар `9`. [Веб-приложение в docker-compose](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/9%20%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20docker-compose#%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8-docker-compose).
 
+Семинар `10`. [Kubernetes for Beginners](https://training.play-with-kubernetes.com/kubernetes-workshop/).
+
+Семинар `11`. `k8s_1 Общие команды kubectl`
+
+1. Написать приложение на Python + Flask.
+ 
+2. Упаковать приложение в контейнер Docker.
+ 
+3. Разместить контейнер в репозитории Docker hub.
+   
+4. Сделать Deployment и Service в кластере k8s.
+
+[Пример решения задания](https://github.com/BosenkoTM/IC-UD/assets/38157538/762a25a9-d96c-4a2b-abfd-b764db6dd78d)
+
+Семинар `12`. [k8s_2 Общие команды kubectl]()
+
 ## Основная литература
 
 1. Иан Милл, Эйдан Хобсон Сейерс Docker на практике / пер. с англ. Д. А. Беликов. – М.: ДМК Пресс, 2020. – 516 с. [скачать](https://disk.yandex.ru/d/mrcntkbTLAfHPQ)
