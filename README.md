@@ -239,7 +239,7 @@
 Семинар `10`. `07/10/2023` [Kubernetes for Beginners](https://training.play-with-kubernetes.com/kubernetes-workshop/).
 
 Семинар `11`. `14/10/2023` 
-- [Установка minikube лекция-инструкция]().
+- [Установка minikube лекция-инструкция](/lectures/4%20Установка%20minikube%20лекция-инструкция.pdf).
 - [.yaml](/practice/practice_for_lecture_4/setup).
 
 Семинар `12`. `k8s_1 Общие команды kubectl`
