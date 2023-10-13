@@ -238,30 +238,25 @@
 
 Семинар `10`. `07/10/2023` [Kubernetes for Beginners](https://training.play-with-kubernetes.com/kubernetes-workshop/).
 
-Семинар `11`. `14/10/2023` `k8s_1 Общие команды kubectl`
+Семинар `11`. `14/10/2023` 
+- [Установка minikube лекция-инструкция]().
+- [.yaml](/practice/practice_for_lecture_4/setup).
+
+Семинар `12`. `k8s_1 Общие команды kubectl`
 
 1. Написать приложение на Python + Flask.
- 
 2. Упаковать приложение в контейнер Docker.
- 
-3. Разместить контейнер в репозитории Docker hub.
-   
+3. Разместить контейнер в репозитории Docker hub.  
 4. Сделать Deployment и Service в кластере k8s.
 
 [Пример решения задания](https://github.com/BosenkoTM/IC-UD/assets/38157538/762a25a9-d96c-4a2b-abfd-b764db6dd78d)
 
-Семинар `12`. `28/10/2023` [k8s_2 Общие команды kubectl]()
+Семинар `13`.  [k8s_2 Общие команды kubectl]()
 
 ## Основная литература
-
 1. Иан Милл, Эйдан Хобсон Сейерс Docker на практике / пер. с англ. Д. А. Беликов. – М.: ДМК Пресс, 2020. – 516 с. [скачать](https://disk.yandex.ru/d/mrcntkbTLAfHPQ)
-
 2. Моуэт Э. Использование Docker / пер. с англ. А. В. Снастина; науч. ред. А. А. Маркелов. – М.: ДМК Пресс, 2017. – 354 с. [скачать](https://disk.yandex.ru/d/mrcntkbTLAfHPQ)
-
 3. Liz Rice Container Security: Fundamental Technology Concepts that Protect Containerized Applications. O'Reilly Media, 2020, 175 с.[скачать](https://disk.yandex.ru/d/mrcntkbTLAfHPQ)
-   
 4. Jordan Lioy Software Containers: The Complete Guide to Virtualization Technology. Create, Use and Deploy Scalable Software with Docker and Kubernetes. 2023, 673с.[скачать](https://disk.yandex.ru/d/mrcntkbTLAfHPQ)
-  
 5. Play with Docker Classroom [link](https://training.play-with-docker.com/)
-   
 6. Container Training [link](https://container.training/)
