@@ -9,8 +9,6 @@
 - [Лекция 4. Хранение данных и ресурсы](#лекция-4-хранение-данных-и-ресурсы)
 - [Лекция 5. Сетевые абстракции Kubernetes](#лекция-5-сетевые-абстракции-kubernetes)
 - [Лекция 6. Устройство кластера](#лекция-6-устройство-кластера)
-- [Лекция 7. Продвинутые абстракции](#лекция-7-продвинутые-абстракции)
-- [Лекция 8. Деплой тестового приложения в кластер, CI/CD](#лекция-8-деплой-тестового-приложения-в-кластер)
 
 ## Текущая успеваемость
  [АДЭУ-201](https://docs.google.com/spreadsheets/d/1rldI1A9V3_WH9H8McTe3qNr6o0migXObak8nKQSQg-E/edit?usp=sharing)
@@ -21,33 +19,13 @@
 
 **Перед второй лекцией нужно установить Docker**
 
-Вы можете [установить Docker](https://docs.docker.com/get-docker/) на свой компьютер или виртуальную машину с Linux.
+[установить Docker](https://docs.docker.com/get-docker/) на свой компьютер или виртуальную машину с Linux.
 
-А так же использовать онлайн сервисы, чтобы немедленно приступить к обучению:
+А так же использовать онлайн сервисы:
 
 🔹 [Play with Docker](https://labs.play-with-docker.com/)
 
 🔹 [Katacoda](https://www.katacoda.com/)
-
-**Паттерны проектирования**
-
-🔹 [The Twelwe-Factor App](https://12factor.net/ru/)
-
-🔹 [GRASP](https://ru.wikipedia.org/wiki/GRASP)
-
-🔹 Рекомендую книгу - [Чистая архитектура. Искусство разработки программного обеспечения](https://www.piter.com/product/chistaya-arhitektura-iskusstvo-razrabotki-programmnogo-obespecheniya)
-
-**Механизмы контейнеризации**
-
-🔹 [Linux-контейнеры: изоляция как технологический прорыв](https://habr.com/ru/company/redhatrussia/blog/352052/)
-
-🔹 [Namespaces](https://habr.com/ru/company/selectel/blog/279281/)
-
-🔹 [Cgroups](https://habr.com/ru/company/selectel/blog/303190/)
-
-🔹 [Capabilities](https://habr.com/ru/company/otus/blog/471802/)
-
-🔹 [Могут ли контейнеры быть безопасными?](https://habr.com/ru/company/oleg-bunin/blog/480630/)
 
 ## Лекция 2. Docker
 
@@ -135,23 +113,6 @@
 
 🔹 [Как увеличить скорость реакции Kubernetes на отказ узлов кластера?](https://habr.com/ru/company/timeweb/blog/561084/)
 
-## Лекция 7. Продвинутые абстракции
-
-🔹 [Митап "Stateful-приложения в 2020 году"](https://www.youtube.com/watch?v=ykIh4-616Ic&list=PL8D2P0ruohODzihD0D0FZXkVHXtXbb6w3&index=4&ab_channel=HighLoadChannel)
-
-🔹 [Jobs & Cronjobs in Kubernetes Cluster](https://medium.com/avmconsulting-blog/jobs-cronjobs-in-kubernetes-cluster-d0e872e3c8c8)
-
-🔹 [Tоп-10 PromQL запросов для мониторинга Kubernetes](https://habr.com/ru/company/timeweb/blog/562374/)
-
-## Лекция 8. Деплой тестового приложения в кластер
-
-🔹 [Антипаттерны деплоя в Kubernetes. Часть 1](https://habr.com/ru/company/timeweb/blog/557320/)
-
-🔹 [Антипаттерны деплоя в Kubernetes. Часть 2](https://habr.com/ru/company/timeweb/blog/560772/)
-
-🔹 [Антипаттерны деплоя в Kubernetes. Часть 3](https://habr.com/ru/company/timeweb/blog/561570/)
-
-🔹 [ПРОЕКТ «ФЕНИКС». КАК DEVOPS УСТРАНЯЕТ ХАОС И УСКОРЯЕТ РАЗВИТИЕ КОМПАНИИ](https://bombora.ru/book/64983/#.)
 
 ## Практические работы
 
@@ -247,3 +208,12 @@
 4. Jordan Lioy Software Containers: The Complete Guide to Virtualization Technology. Create, Use and Deploy Scalable Software with Docker and Kubernetes. 2023, 673с.[скачать](https://disk.yandex.ru/d/mrcntkbTLAfHPQ)
 5. Play with Docker Classroom [link](https://training.play-with-docker.com/)
 6. Container Training [link](https://container.training/)
+7. [Linux-контейнеры: изоляция как технологический прорыв](https://habr.com/ru/company/redhatrussia/blog/352052/)
+8. [Namespaces](https://habr.com/ru/company/selectel/blog/279281/)
+9. [Cgroups](https://habr.com/ru/company/selectel/blog/303190/)
+10. [Capabilities](https://habr.com/ru/company/otus/blog/471802/)
+11. [Могут ли контейнеры быть безопасными?](https://habr.com/ru/company/oleg-bunin/blog/480630/)
+12. [Митап "Stateful-приложения в 2020 году"](https://www.youtube.com/watch?v=ykIh4-616Ic&list=PL8D2P0ruohODzihD0D0FZXkVHXtXbb6w3&index=4&ab_channel=HighLoadChannel)
+13. [Jobs & Cronjobs in Kubernetes Cluster](https://medium.com/avmconsulting-blog/jobs-cronjobs-in-kubernetes-cluster-d0e872e3c8c8)
+14. [Tоп-10 PromQL запросов для мониторинга Kubernetes](https://habr.com/ru/company/timeweb/blog/562374/)
+
