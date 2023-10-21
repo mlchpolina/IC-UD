@@ -91,7 +91,7 @@
 - `ПР 6`. [Docker images deeper dive](https://training.play-with-docker.com/docker-images/).
 - `ПР 7`. [Docker Orchestration Hands-on Lab](https://training.play-with-docker.com/orchestration-hol/).
 - `ПР 8`. [Security Lab: Capabilities](https://training.play-with-docker.com/security-capabilities/).
-- `ПР 9`. [workflow1-self-contained](https://github.com/BosenkoTM/using-docker-containers-for-data/tree/main/workflow1-self-contained).
+- `ПР 9`. [workflow1-self-contained](https://github.com/BosenkoTM/using-docker-containers-for-data/tree/main).
 ## ТЕСТ 1.   
 
 `14.10.2023`
