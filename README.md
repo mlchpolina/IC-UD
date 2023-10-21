@@ -1,15 +1,6 @@
 # Integrating-and-Deploying-Software-with-Containers
 # Using Containers for Working with Data
 
-## Полезные ссылки
-
-- [Лекция 1. Микросервисы и контейнеры](#лекция-1-микросервисы-и-контейнеры)
-- [Лекция 2. Docker](#лекция-2-docker)
-- [Лекция 3. Введение в Kubernetes](#лекция-3-введение-в-kubernetes)
-- [Лекция 4. Хранение данных и ресурсы](#лекция-4-хранение-данных-и-ресурсы)
-- [Лекция 5. Сетевые абстракции Kubernetes](#лекция-5-сетевые-абстракции-kubernetes)
-- [Лекция 6. Устройство кластера](#лекция-6-устройство-кластера)
-
 ## Текущая успеваемость
  [АДЭУ-201](https://docs.google.com/spreadsheets/d/1rldI1A9V3_WH9H8McTe3qNr6o0migXObak8nKQSQg-E/edit?usp=sharing)
  
@@ -20,12 +11,6 @@
 **Перед второй лекцией нужно установить Docker**
 
 [установить Docker](https://docs.docker.com/get-docker/) на свой компьютер или виртуальную машину с Linux.
-
-А так же использовать онлайн сервисы:
-
-🔹 [Play with Docker](https://labs.play-with-docker.com/)
-
-🔹 [Katacoda](https://www.katacoda.com/)
 
 ## Лекция 2. Docker
 
@@ -79,14 +64,6 @@
 
 🔹 [kubecolor - раскрашивает вывод kubectl](https://github.com/dty1er/kubecolor/)
 
-Как получить в своё распоряжение полноценный кластер Kubernetes?
-
-**Онлайн сервисы, чтобы немедленно приступить к обучению**
-
-🔹 [Play with Kubernetes](https://labs.play-with-k8s.com/)
-
-🔹 [Katacoda](https://www.katacoda.com/)
-
 **Запустить локальный кластер Kubernetes**
 
 🔹 [Minikube](https://kubernetes.io/ru/docs/tasks/tools/install-minikube/)
@@ -117,20 +94,14 @@
 ## Практические работы
 
 - `ПР 1`. [First Alpine Linux Containers](https://training.play-with-docker.com/ops-s1-hello/).
- 
 - `ПР 2`. [Docker for Beginners - Linux](https://training.play-with-docker.com/beginner-linux/).
-
 - `ПР 4`.
    - [Swarm Mode Introduction for IT Pros](https://training.play-with-docker.com/ops-s1-swarm-intro/).
-
    - [Swarm mode introduction](https://training.play-with-docker.com/swarm-mode-intro/).
-
 - `ПР 5`. [Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/).
-
 - `ПР 6`. [Docker images deeper dive](https://training.play-with-docker.com/docker-images/).
-
 - `ПР 7`. [Docker Orchestration Hands-on Lab](https://training.play-with-docker.com/orchestration-hol/).
-  
+- `ПР 8`. [Security Lab: Capabilities](https://training.play-with-docker.com/security-capabilities/).
 - `ПР 9`. [workflow1-self-contained](https://github.com/BosenkoTM/using-docker-containers-for-data/tree/main/workflow1-self-contained).
     
 
@@ -221,4 +192,10 @@
 13. [Митап "Stateful-приложения в 2020 году"](https://www.youtube.com/watch?v=ykIh4-616Ic&list=PL8D2P0ruohODzihD0D0FZXkVHXtXbb6w3&index=4&ab_channel=HighLoadChannel).
 14. [Jobs & Cronjobs in Kubernetes Cluster](https://medium.com/avmconsulting-blog/jobs-cronjobs-in-kubernetes-cluster-d0e872e3c8c8).
 15. [Tоп-10 PromQL запросов для мониторинга Kubernetes](https://habr.com/ru/company/timeweb/blog/562374/).
+
+## Онлайн сервисы:
+
+1. [Play with Docker](https://labs.play-with-docker.com/).
+2. [Katacoda](https://www.katacoda.com/).
+3. [Play with Kubernetes](https://labs.play-with-k8s.com/).
 
