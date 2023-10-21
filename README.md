@@ -1,11 +1,8 @@
-# Integrating-and-Deploying-Software-with-Containers
-# Using Containers for Working with Data
-
+# Integrating-and-Deploying-Software-with-Containers. Using Containers for Working with Data
 ## Текущая успеваемость
  [АДЭУ-201](https://docs.google.com/spreadsheets/d/1rldI1A9V3_WH9H8McTe3qNr6o0migXObak8nKQSQg-E/edit?usp=sharing)
  
 ## Лекция 1. Микросервисы и контейнеры
-
 [МГПУ 02-09-23](/lectures/1%20-%20intro%20Применение%20контейнеров.pptx)
 
 **Перед второй лекцией нужно установить Docker**
@@ -13,39 +10,27 @@
 [установить Docker](https://docs.docker.com/get-docker/) на свой компьютер или виртуальную машину с Linux.
 
 ## Лекция 2. Docker
-
 **Docker**
 
 🔹 [Сеть контейнеров — это не сложно](https://habr.com/ru/company/timeweb/blog/558612/)
-
 🔹 [Overview of Docker CLI](https://docs.docker.com/engine/reference/run/)
-
 🔹 [10 команд для Docker, без которых вам не обойтись](https://tproger.ru/translations/top-10-docker-commands/)
-
 🔹 [Как начать использовать Docker в своих проектах](https://tproger.ru/translations/how-to-start-using-docker/)
-
 🔹 [50 вопросов по Docker, которые задают на собеседованиях, и ответы на них](https://habr.com/ru/company/southbridge/blog/528206/)
 
 **Dockerfile**
 
 🔹 [20 лучших практик по работе с Dockerfile](https://habr.com/ru/company/domclick/blog/546922/)
-
 🔹 [ENTRYPOINT vs CMD: назад к основам](https://habr.com/ru/company/southbridge/blog/329138/)
-
 🔹 [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
-
 🔹 [Use multi-stage builds](https://docs.docker.com/develop/develop-images/multistage-build/)
-
 🔹 [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#add-or-copy%23add-or-copy)
 
 **Docker Compose**
 
 🔹 [Overview of docker-compose CLI](https://docs.docker.com/compose/reference/)
-
 🔹 [Quickstart: Compose and Django](https://docs.docker.com/samples/django/)
-
 🔹 [Compose file version 3 reference](https://docs.docker.com/compose/compose-file/compose-file-v3/)
-
 🔹 [Compose file version 2 reference](https://docs.docker.com/compose/compose-file/compose-file-v2/)
 
 ## Лекция 3. Введение в Kubernetes
@@ -57,42 +42,27 @@
 Делаем работу с kubectl удобнее:
 
 🔹 [kubectl auto-complition](https://kubernetes.io/docs/tasks/tools/included/optional-kubectl-configs-bash-linux/)
-
 🔹 [kubectl aliases](https://github.com/adterskov/kubectl-aliases)
-
 🔹 [kubens - быстрый способ переключения между namespaces в kubectl](https://github.com/ahmetb/kubectx/)
-
 🔹 [kubecolor - раскрашивает вывод kubectl](https://github.com/dty1er/kubecolor/)
 
 **Запустить локальный кластер Kubernetes**
 
 🔹 [Minikube](https://kubernetes.io/ru/docs/tasks/tools/install-minikube/)
-
 🔹 [Minishift (OpenShift)](https://www.okd.io/minishift/)
-
 🔹 [KiND](https://kind.sigs.k8s.io/docs/user/quick-start/)
-
 🔹 [Docker Desktop](https://docs.docker.com/desktop/kubernetes/)
 
 ## Лекция 4. Хранение данных и ресурсы
-
 🔹 [Рациональное использование ресурсов в Kubernetes](https://habr.com/ru/company/timeweb/blog/560670/)
-
 ## Лекция 5. Сетевые абстракции Kubernetes
-
 🔹 [Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/#configure-probes)
-
 🔹 [iptables: How Kubernetes Services Direct Traffic to Pods](https://dustinspecker.com/posts/iptables-how-kubernetes-services-direct-traffic-to-pods/)
-
 ## Лекция 6. Устройство кластера
-
 🔹 [Kubernetes is so Simple You Can Explore it with Curl](https://blog.tilt.dev/2021/03/18/kubernetes-is-so-simple.html)
-
 🔹 [Как увеличить скорость реакции Kubernetes на отказ узлов кластера?](https://habr.com/ru/company/timeweb/blog/561084/)
 
-
 ## Практические работы
-
 - `ПР 1`. [First Alpine Linux Containers](https://training.play-with-docker.com/ops-s1-hello/).
 - `ПР 2`. [Docker for Beginners - Linux](https://training.play-with-docker.com/beginner-linux/).
 - `ПР 4`.
