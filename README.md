@@ -13,17 +13,25 @@
 **Docker**
 
 🔹 [Сеть контейнеров — это не сложно](https://habr.com/ru/company/timeweb/blog/558612/)
+
 🔹 [Overview of Docker CLI](https://docs.docker.com/engine/reference/run/)
+
 🔹 [10 команд для Docker, без которых вам не обойтись](https://tproger.ru/translations/top-10-docker-commands/)
+
 🔹 [Как начать использовать Docker в своих проектах](https://tproger.ru/translations/how-to-start-using-docker/)
+
 🔹 [50 вопросов по Docker, которые задают на собеседованиях, и ответы на них](https://habr.com/ru/company/southbridge/blog/528206/)
 
 **Dockerfile**
 
 🔹 [20 лучших практик по работе с Dockerfile](https://habr.com/ru/company/domclick/blog/546922/)
+
 🔹 [ENTRYPOINT vs CMD: назад к основам](https://habr.com/ru/company/southbridge/blog/329138/)
+
 🔹 [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
+
 🔹 [Use multi-stage builds](https://docs.docker.com/develop/develop-images/multistage-build/)
+
 🔹 [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#add-or-copy%23add-or-copy)
 
 **Docker Compose**
@@ -42,15 +50,21 @@
 Делаем работу с kubectl удобнее:
 
 🔹 [kubectl auto-complition](https://kubernetes.io/docs/tasks/tools/included/optional-kubectl-configs-bash-linux/)
+
 🔹 [kubectl aliases](https://github.com/adterskov/kubectl-aliases)
+
 🔹 [kubens - быстрый способ переключения между namespaces в kubectl](https://github.com/ahmetb/kubectx/)
+
 🔹 [kubecolor - раскрашивает вывод kubectl](https://github.com/dty1er/kubecolor/)
 
 **Запустить локальный кластер Kubernetes**
 
 🔹 [Minikube](https://kubernetes.io/ru/docs/tasks/tools/install-minikube/)
+
 🔹 [Minishift (OpenShift)](https://www.okd.io/minishift/)
+
 🔹 [KiND](https://kind.sigs.k8s.io/docs/user/quick-start/)
+
 🔹 [Docker Desktop](https://docs.docker.com/desktop/kubernetes/)
 
 ## Лекция 4. Хранение данных и ресурсы
