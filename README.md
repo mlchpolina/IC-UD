@@ -120,18 +120,18 @@
  
 - `ПР 2`. [Docker for Beginners - Linux](https://training.play-with-docker.com/beginner-linux/).
 
-- `ПР 3`.
+- `ПР 4`.
    - [Swarm Mode Introduction for IT Pros](https://training.play-with-docker.com/ops-s1-swarm-intro/).
 
    - [Swarm mode introduction](https://training.play-with-docker.com/swarm-mode-intro/).
 
-- `ПР 4`. [Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/).
+- `ПР 5`. [Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/).
 
-- `ПР 5`. [Docker images deeper dive](https://training.play-with-docker.com/docker-images/).
+- `ПР 6`. [Docker images deeper dive](https://training.play-with-docker.com/docker-images/).
 
-- `ПР 6`. [Docker Orchestration Hands-on Lab](https://training.play-with-docker.com/orchestration-hol/).
+- `ПР 7`. [Docker Orchestration Hands-on Lab](https://training.play-with-docker.com/orchestration-hol/).
   
-- `ПР 7`. [workflow1-self-contained](https://github.com/BosenkoTM/using-docker-containers-for-data/tree/main/workflow1-self-contained).
+- `ПР 9`. [workflow1-self-contained](https://github.com/BosenkoTM/using-docker-containers-for-data/tree/main/workflow1-self-contained).
     
 
 ## ТЕСТ 1.   
