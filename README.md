@@ -89,8 +89,6 @@
 - `ПР 7`. [Docker Orchestration Hands-on Lab](https://training.play-with-docker.com/orchestration-hol/).
 - `ПР 8`. [Security Lab: Capabilities](https://training.play-with-docker.com/security-capabilities/).
 - `ПР 9`. [workflow1-self-contained](https://github.com/BosenkoTM/using-docker-containers-for-data/tree/main/workflow1-self-contained).
-    
-
 ## ТЕСТ 1.   
 
 `14.10.2023`
@@ -102,14 +100,10 @@
 
 [Оркестрация данных]()
 
-
 ## Семинары
-
-Семинар `1`. `16/09/2023` [Установка Docker](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/1%20%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20DOCKER#1-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-docker---ubuntu).
-
-Семинар `2`. `16/09/2023` [Первый контейнер](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/2%20%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80#%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80).
-
-Семинар `3`. `16/09/2023` [Создание образа](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/3%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B0#%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B0).
+- Семинар `1`. `16/09/2023` [Установка Docker](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/1%20%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20DOCKER#1-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-docker---ubuntu).
+- Семинар `2`. `16/09/2023` [Первый контейнер](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/2%20%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80#%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80).
+- Семинар `3`. `16/09/2023` [Создание образа](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/3%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B0#%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B0).
 
 Официальный контейнер [Ubuntu 14](https://github.com/dockerfile/ubuntu).
  - скачать репо `https://github.com/dockerfile/ubuntu.git`;
@@ -128,40 +122,32 @@
  sudo docker image ls
 ```
 
-Семинар `4`. `23/09/2023` [Работа с файлами](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/4%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC%D0%B8#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC%D0%B8---%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F).
+- Семинар `4`. `23/09/2023` [Работа с файлами](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/4%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC%D0%B8#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC%D0%B8---%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F). Создание [TG-BOT 2022](https://github.com/BosenkoTM/tg_bot_2022.git).
+- Семинар `5`. `23/09/2023` [Переменные окружения, логи и порты](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/5%20%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%2C%20%D0%BB%D0%BE%D0%B3%D0%B8%20%D0%B8%20%D0%BF%D0%BE%D1%80%D1%82%D1%8B#%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F).
+- Семинар `6`. [Введение в сети](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/6%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%B5%D1%82%D0%B8#%D1%81%D0%B5%D1%82%D0%B8-%D0%B2-docker).
+- Семинар `7`. [Веб-приложение в контейнерах](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/7%20%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%D0%B0%D1%85#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81-%D0%BE%D0%B4%D0%BD%D0%B8%D0%BC-%D0%B8-%D0%B4%D0%B2%D1%83%D0%BC%D1%8F-%D0%B2%D0%B5%D0%B1-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0%D0%BC%D0%B8).
+- Семинар `8`. [YAML и docker-compose](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/8%20YAML%20%D0%B8%20docker-compose#yaml).
+- Семинар `9`. [Веб-приложение в docker-compose](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/9%20%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20docker-compose#%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8-docker-compose).
+- Семинар `10`. `07/10/2023` [Kubernetes for Beginners](https://training.play-with-kubernetes.com/kubernetes-workshop/).
+- Семинар `11`. `14/10/2023` 
 
-Создание [TG-BOT 2022](https://github.com/BosenkoTM/tg_bot_2022.git).
+[Установка minikube лекция-инструкция](/lectures/4%20Установка%20minikube%20лекция-инструкция.pdf).
 
-Семинар `5`. `23/09/2023` [Переменные окружения, логи и порты](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/5%20%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%2C%20%D0%BB%D0%BE%D0%B3%D0%B8%20%D0%B8%20%D0%BF%D0%BE%D1%80%D1%82%D1%8B#%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F).
+[.yaml](/practice/practice_for_lecture_4/setup).
 
-Семинар `6`. [Введение в сети](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/6%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%B5%D1%82%D0%B8#%D1%81%D0%B5%D1%82%D0%B8-%D0%B2-docker).
-
-Семинар `7`. [Веб-приложение в контейнерах](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/7%20%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%D0%B0%D1%85#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81-%D0%BE%D0%B4%D0%BD%D0%B8%D0%BC-%D0%B8-%D0%B4%D0%B2%D1%83%D0%BC%D1%8F-%D0%B2%D0%B5%D0%B1-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0%D0%BC%D0%B8).
-
-Семинар `8`. [YAML и docker-compose](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/8%20YAML%20%D0%B8%20docker-compose#yaml).
-
-Семинар `9`. [Веб-приложение в docker-compose](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/9%20%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20docker-compose#%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8-docker-compose).
-
-Семинар `10`. `07/10/2023` [Kubernetes for Beginners](https://training.play-with-kubernetes.com/kubernetes-workshop/).
-
-Семинар `11`. `14/10/2023` 
-- [Установка minikube лекция-инструкция](/lectures/4%20Установка%20minikube%20лекция-инструкция.pdf).
-- [.yaml](/practice/practice_for_lecture_4/setup).
-- Задание:
+**Задание**:
 1. Установить minikube. Создайте модуль pod под управлением `Nginx`.
 2. Провести тестирование `minikube` и `kubectl`.
 3. Развернуть многоузловой кластер `minikube`.
 4. Установить `Kind`. Создайте модуль под управлением `Nginx`.
 5. Провести тестирование `Kind`.
-
-Семинар `12`. `k8s_1 Общие команды kubectl`
+- Семинар `12`. `k8s_1 Общие команды kubectl`
 1. Написать приложение на Python + Flask.
 2. Упаковать приложение в контейнер Docker.
 3. Разместить контейнер в репозитории Docker hub.  
 4. Сделать Deployment и Service в кластере k8s.
 
 [Пример решения задания](https://github.com/BosenkoTM/IC-UD/assets/38157538/762a25a9-d96c-4a2b-abfd-b764db6dd78d)
-
 ## Основная литература
 1. Иан Милл, Эйдан Хобсон Сейерс Docker на практике / пер. с англ. Д. А. Беликов. – М.: ДМК Пресс, 2020. – 516 с. [скачать](https://disk.yandex.ru/d/mrcntkbTLAfHPQ).
 2. Моуэт Э. Использование Docker / пер. с англ. А. В. Снастина; науч. ред. А. А. Маркелов. – М.: ДМК Пресс, 2017. – 354 с. [скачать](https://disk.yandex.ru/d/mrcntkbTLAfHPQ).
