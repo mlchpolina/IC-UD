@@ -37,8 +37,11 @@
 **Docker Compose**
 
 🔹 [Overview of docker-compose CLI](https://docs.docker.com/compose/reference/)
+
 🔹 [Quickstart: Compose and Django](https://docs.docker.com/samples/django/)
+
 🔹 [Compose file version 3 reference](https://docs.docker.com/compose/compose-file/compose-file-v3/)
+
 🔹 [Compose file version 2 reference](https://docs.docker.com/compose/compose-file/compose-file-v2/)
 
 ## Лекция 3. Введение в Kubernetes
