@@ -15,3 +15,5 @@
 2. Упаковать приложение в контейнер Docker.
 3. Разместить контейнер в репозитории Docker hub.  
 4. Сделать Deployment и Service в кластере k8s.
+
+   [Пример решения задания](https://github.com/BosenkoTM/IC-UD/assets/38157538/762a25a9-d96c-4a2b-abfd-b764db6dd78d)
