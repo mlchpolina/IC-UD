@@ -10,13 +10,13 @@
 
 Для решения данного задания необходимо:
 
-1. Сделать форк от master из репозитория https://github.com/OtusTeam/data-engineer
+1. Сделать форк от master из репозитория https://github.com/BosenkoTM/IC-UD
 
-2. Перейти в папку spark_ml (командой в консоли: cd spark_ml)
+2. Перейти в папку `/test2/ml/spark_ml` (командой в консоли: `cd spark_ml`).
 
-3. Запустить докер-контейнер с jupyter notebook
+3. Запустить докер-контейнер с jupyter notebook.
 
-4. Последовательно выполнить все ноутбуки в Readme.md (построить модель на Python + scikit-learn)
+4. Последовательно выполнить все ноутбуки в Readme.md (построить модель на Python + scikit-learn).
 
 5. После построения модели и ее сохранения на диск, необходимо запустить стриминг из ноутбука (tweet_feeder).  
 
