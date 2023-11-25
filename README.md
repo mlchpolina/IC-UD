@@ -99,7 +99,7 @@
 ## ТЕСТ 2.  
 `25.11.2023`
 
-[Оркестрация данных]()
+[Оркестрация данных](https://forms.gle/xp6uS8rVQ2v7hgdR8)
 
 ## Семинары
 - Семинар `1`. `16/09/2023` [Установка Docker](https://github.com/BosenkoTM/IC-UD_Practice/tree/main/1%20%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20DOCKER#1-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-docker---ubuntu).
